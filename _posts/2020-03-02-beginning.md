@@ -5,5 +5,27 @@ published: true
 ---
 
 After many years of procrastination I'm blogging again.
+Years spent playing with technology and cogitating. 
+Contemplating the future and reflecting on the errors of the past.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+What have I learned?
+
+- Markdown
+- Numpy and Pandas
+- Notebooks
+- virtual environments
+
+What have I played with?
+
+- laser cutters
+- 3D printers
+- Linux environments
+- Colab and Jupyter
+
+
+
+
+
+
+
