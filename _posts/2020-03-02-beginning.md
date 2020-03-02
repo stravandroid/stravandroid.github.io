@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: Blogging again
+published: true
 ---
-## Blogging again
 
 After many years of procrastination I'm blogging again.
 
