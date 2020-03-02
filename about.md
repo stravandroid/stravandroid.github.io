@@ -2,13 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Wandered for Wishy to Grenoble on a mission from God
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Working undercover as a grumpy old man.
 
 ### Contact me
 
