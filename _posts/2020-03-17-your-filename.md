@@ -1,9 +1,12 @@
 ---
 published: false
 ---
-## A New Post
+---
+layout: post
+title: Lockdown
+published: true
+---
 
-Lockdown
 
 Personally I have a very, very poor opinion of our leaders. Maybe before they were considered, and certainly considered themselves as politicians but in the New World Order they are leaders. Certainly not statesmen.
 
