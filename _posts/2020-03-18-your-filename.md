@@ -1,8 +1,6 @@
-
-
 ---
 layout: post
-title:Mortality I 
+title: Mortality I 
 published: true
 ---
 
