@@ -1,6 +1,7 @@
 
+
 ---
-layout: posts
+layout: post
 title:Mortality I 
 published: true
 ---
