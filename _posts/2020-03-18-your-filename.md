@@ -2,7 +2,7 @@
 ---
 layout: posts
 title:Mortality I 
-published: false
+published: true
 ---
 
 Death is a funny thing. We know it’s coming but we try to avoid thinking about it. Society formalises death, abstracts it so that individually we only have to deal with death rarely - when a close relative passes away or one of the great and good dies. They have their 15 minutes of celebrity post mortem and perhaps an appearance in  the obituary columns buried in the depths of the Times.
